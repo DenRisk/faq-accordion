@@ -17,7 +17,7 @@ const faqs = [
     id: 3,
     triggerText: 'Can I use Frontend Mentor projects in my portfolio?',
     contentText: 'Frontend Mentor offers realistic coding challenges to help developers improve their frontend coding skills with projects in HTML, CSS, and JavaScript. It’s suitable for all levels and ideal for portfolio building.'
-  },,
+  },
   {
     id: 4,
     triggerText: 'How can I get help if I am stuck on a challenge?',
